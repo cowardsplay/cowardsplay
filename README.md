@@ -14,7 +14,7 @@
 |---------|------------|
 | [OverlookC2](https://github.com/cowardsplay/OverlookC2) | A modular C2 for red-team ops | 
 | [Rhvd-Reaper](https://github.com/cowardsplay/Rhvd-Reaper) | DFIR & hunting tool | 
-| [AI-Self-Host](https://github.com/cowardsplay/AI-Self-Host) | Self-hosted AI with hardened security | 
+| [AI-Self-Host](https://github.com/cowardsplay/AI-Self-Host) | Self-hosted AI with chat interface | 
 
 ---
 
