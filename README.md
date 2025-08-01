@@ -1,4 +1,4 @@
-# 👋 Joshua "cowardsplay" Jenkins
+# NAME: Joshua Jenkins
 
 **Red Team Operator | DFIR Specialist | Network Engineer**
 
