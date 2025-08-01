@@ -34,6 +34,5 @@
 
 ### 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YOUR-LINK)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/YOUR-HANDLE)  
-[![Blog](https://img.shields.io/badge/Blog-Read-lightgrey)](https://yourblog.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joshuajenknis291/)  
+[![TX](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://x.com/cowardsplay)  
