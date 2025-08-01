@@ -10,11 +10,11 @@
 
 ### 🛡️ Featured Security Projects
 
-| Project | Description | Highlights |
-|---------|------------|-----------|
-| [OverlookC2](https://github.com/cowardsplay/OverlookC2) | A modular C2 for red-team ops | Evasion techniques, custom payloads, operator UX |
-| [Rhvd-Reaper](https://github.com/cowardsplay/Rhvd-Reaper) | DFIR & hunting tool | Real-world case study, forensic triage scripts |
-| [AI-Self-Host](https://github.com/cowardsplay/AI-Self-Host) | Self-hosted AI with hardened security | Dockerized deployment, model isolation |
+| Project | Description |
+|---------|------------|
+| [OverlookC2](https://github.com/cowardsplay/OverlookC2) | A modular C2 for red-team ops | 
+| [Rhvd-Reaper](https://github.com/cowardsplay/Rhvd-Reaper) | DFIR & hunting tool | 
+| [AI-Self-Host](https://github.com/cowardsplay/AI-Self-Host) | Self-hosted AI with hardened security | 
 
 ---
 
