@@ -1,4 +1,4 @@
-# NAME: Joshua Jenkins
+# Joshua Jenkins
 
 **Red Team Operator | DFIR Specialist | Network Engineer**
 
