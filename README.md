@@ -26,12 +26,6 @@
 
 ---
 
-### 📈 Latest Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cowardsplay&show_icons=true&theme=dark)
-
----
-
 ### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joshuajenknis291/)  
