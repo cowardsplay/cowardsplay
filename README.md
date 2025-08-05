@@ -6,6 +6,11 @@
 - 🔵 Current **Digital Forensics Investigator** & Blue Teamer
 - 🌐 Passionate about **Adversary emulation, detection engineering, incident response and Purple Teaming**
 
+**Certifications**
+- https://www.credly.com/badges/1162511d-2959-4970-9478-18180b537455/public_url
+- https://eu.badgr.com/public/assertions/QRz-xp88QRy-7rpLbZZacw
+- https://www.credly.com/badges/26cc6643-e1bd-47bb-b534-5a08b8783fca/linked_in_profile
+
 ---
 
 ### 🛡️ Featured Security Projects
