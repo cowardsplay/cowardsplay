@@ -26,7 +26,7 @@
 ### 🔥 Skills & Capabilities
 
 - Offensive Security: **Payload Engineering, TTP Emulation, Red Team Infrastructure / Automation**
-- Defensive Security: **Log Analysis, Forensics, Threat Hunting**
+- Defensive Security: **Log Analysis, Forensics, Threat Hunting, Tool Development**
 - Automation: **Ansible, Terraform, Python, PowerShell, Docker, CI/CD for Security Tools**
 
 ---
