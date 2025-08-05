@@ -8,7 +8,7 @@
 
 **Certifications**
 - [ROPS-RT1](https://www.credly.com/badges/1162511d-2959-4970-9478-18180b537455/public_url)
-- [RTFM Challenge]([https://eu.badgr.com/public/assertions/QRz-xp88QRy-7rpLbZZacw)](https://www.credly.com/badges/26cc6643-e1bd-47bb-b534-5a08b8783fca/linked_in_profile)
+- [RTFM Challenge](https://www.credly.com/badges/26cc6643-e1bd-47bb-b534-5a08b8783fca/linked_in_profile)
 - [Red Team Operator](https://www.credly.com/badges/26cc6643-e1bd-47bb-b534-5a08b8783fca/linked_in_profile)
 
 ---
