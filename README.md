@@ -2,7 +2,7 @@
 
 **Red Team Operator | DFIR Specialist | Network Engineer**
 
-- 🔴 Former Fortune 50 **Red Team Senior Operator**  
+- 🔴 Former Fortune 50 **Red Team Operator**  
 - 🔵 Current **Digital Forensics Investigator** & Blue Teamer
 - 🌐 Passionate about **Adversary emulation, detection engineering, incident response and Purple Teaming**
 
