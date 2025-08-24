@@ -13,7 +13,7 @@
 
 ---
 
-### 🛡️ Featured Security Projects
+###  Featured Security Projects
 
 | Project | Description |
 |---------|------------|
@@ -23,7 +23,7 @@
 
 ---
 
-### 🔥 Skills & Capabilities
+###  Skills & Capabilities
 
 - Offensive Security: **Payload Engineering, TTP Emulation, Red Team Infrastructure / Automation**
 - Defensive Security: **Log Analysis, Forensics, Threat Hunting, Tool Development**
