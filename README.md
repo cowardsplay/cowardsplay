@@ -31,7 +31,7 @@
 
 ---
 
-### 🌐 Connect
+###  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joshuajenknis291/)  
 [![TX](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://x.com/cowardsplay)  
